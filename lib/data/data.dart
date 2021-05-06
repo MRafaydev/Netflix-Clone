@@ -4,12 +4,11 @@ import 'package:portfolio/models/content_models.dart';
 import '../assets.dart';
 
 final Content sintelContent = Content(
-  name: 'Sintel',
+  name: 'Legends Never Die',
   imageUrl: Assets.sintel,
-  titleImageUrl: Assets.sintelTitle,
+  titleImageUrl: "Assets.sintelTitle",
   videoUrl: Assets.sintelVideoUrl,
-  description:
-      'A lonely young woman, Sintel, helps and befriends a dragon,\nwhom she calls Scales. But when he is kidnapped by an adult\ndragon, Sintel decides to embark on a dangerous quest to find\nher lost friend Scales.',
+  description: '',
 );
 
 final List<Content> previews = const [

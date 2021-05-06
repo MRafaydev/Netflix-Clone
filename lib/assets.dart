@@ -6,8 +6,9 @@ class Assets {
 
   static const String sintel = '${_images}sintel.jpg';
   static const String sintelTitle = '${_images}sintel_title.png';
-  static const String sintelVideoUrl =
-      'http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4';
+  static const String sintelVideoUrl = '${_images}intro.mp4';
+  //     'https://www.youtube.com/watch?v=r6zIGXun57U';
+  // // http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
 
   static const String atla = '${_images}atla.jpg';
   static const String atlaTitle = '${_images}atla_title.png';
